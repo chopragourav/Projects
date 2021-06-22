@@ -11,7 +11,7 @@ try{
 <img src="logo.png"  align="left"width="150" height="150">
 <center><img src="lnct.png" width="150" height="150">
 <img src="apj sir.png" align="right"  width="150" height="150"></center>
-    <a href="dgiOneView.html">Back</a>
+    <a href="lnctOneView.html">Home</a>
   <hr class="new1">
 <style>
 table{
